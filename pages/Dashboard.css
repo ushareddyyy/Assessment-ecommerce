@@ -1,0 +1,11 @@
+/* Dashboard.css */
+.dashboard {
+    display: flex;
+  }
+  
+  .main-content {
+    margin-left: 200px;
+    padding: 20px;
+    flex: 1;
+  }
+  
